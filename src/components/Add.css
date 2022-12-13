@@ -1,0 +1,19 @@
+.add-Complaints{
+    font-weight: 700;
+    font-size: 21px;
+    margin: 15px;
+    margin-top: 25vh;
+    background-color: rgb(100, 100, 233);
+    display: inline-block;
+}
+.btn{
+    color: white;
+    border: none;
+    padding: 10px 10px;
+    position: relative;
+    background-color: rgb(100, 100, 233);
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
